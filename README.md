@@ -3,6 +3,8 @@ Ref:https://www.kaggle.com/c/titanic
 
 ROC Auc Score : 0.7352385451110062
 
+![image](https://user-images.githubusercontent.com/57879409/194675051-0f37d81e-dbd5-4af9-9187-b73dfc6f2c77.png)
+
 ![image](https://user-images.githubusercontent.com/57879409/193498109-86e7c8bb-ef81-471a-9960-89e2a0d1729f.png)
 
 ![image](https://user-images.githubusercontent.com/57879409/193498145-65a64085-4330-419d-81fa-c4292865c414.png)
